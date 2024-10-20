@@ -1,4 +1,4 @@
-<p style="text-align:center;">👋 Hi, I’m Alan Montes.</p>  
+<h3 style="text-align:center;">H3 that is center aligned</h3>
 
 I'm a data analyst with a background in logistics, supply-chain, warehouse fulfillment, and fuel delivery. Strong focus on problem-solving and data-driven decision-making with Python, SQL, and machine learning. My hands-on experience with real-world projects has equipped me with the ability to analyze complex datasets and derive actionable insights. One of my recent projects involved analyzing oil well data across various regions to identify the optimal location for new wells. Using Python and Jupyter Notebook, I processed multiple datasets to calculate average profit margins and risk loss percentages. This analysis allowed me to pinpoint the region with the highest potential profitability while minimizing financial risks.
 
