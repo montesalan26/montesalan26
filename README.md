@@ -6,7 +6,7 @@ In my role as a fuel tanker driver, I developed exceptional problem-solving skil
 
 In addition to Python and Jupyter Notebook, I am proficient in SQL and Excel, which I have used to manage and analyze large datasets, driving efficiency and results. I am excited to bring my analytical mindset and diverse skill set to a dynamic team, helping businesses leverage data for smarter decisions and improved outcomes.
   
-- 🌱 Skills: Python, SQL, HTML, CSS, Time Management, Safety Compliant, Problem Sover.
+- 🌱 Skills: Python, SQL, HTML, CSS, Swift, Time Management, Safety Compliant, Problem Sover.
 - 📫 How to reach me: montes.alan.26@gmail.com
 
 <!---
